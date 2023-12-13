@@ -1,0 +1,44 @@
+body{
+    padding: 50px 100px;
+    background-image: url(6229893.jpg);
+
+}
+h1{
+    text-align: center;
+}
+#k2c{
+    width: 200px;
+    height: 50px;
+    left: 0px;
+    border-radius: 5%;
+    padding:5px;
+    position: absolute;
+    top: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(12, 215, 255);
+    
+}
+#container {
+   
+   text-align: center;
+   
+   padding: 50px;
+}
+.input-div{
+    display: grid;
+    padding: 50px;
+    justify-content: space-around;
+}
+.inp{
+    padding: 5px 10px;
+    width : 250px;
+    margin: 10px;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+    color: black;
+}
